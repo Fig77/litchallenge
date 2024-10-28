@@ -15,7 +15,8 @@ Dividir el poligono en base a su diagonal, donde para n%2 = 0 la diagonal del mi
 ## razonamiento (raw, literal salia de mi cabeza, SIC)
 
 - Problema panteado con dibujito:
-  # dibujito
+  ![20241027_214554](https://github.com/user-attachments/assets/a0d31eee-2112-441f-9d91-aa63ef0e513e)
+
 
 - Thought train
 
