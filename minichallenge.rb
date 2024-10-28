@@ -12,7 +12,7 @@
      no existe ningun valor (conteo) de n/2 de rojos o azules. (ya que podemos decir que para resolver el problema, mas que contar disidencias en filas y columnas podemos contar disidencias en cantidades de diagonales, que es algo que me di cuenta mientras escribia el razonamiento.
 =end
 
-# Nota, el codigo puede ser brutalmente optimizado hasta la muerte pero encontre la propuesta de casualidad y me puse 30 mins para hacerlo. Igual tarde 40ish.
+# Nota, el codigo puede ser brutalmente optimizado hasta la muerte, pero fue todo cowboy.
 
 
 # funcion añadida a lo ultimo luego de probar que la solucion es falsa para casos pares

@@ -34,9 +34,6 @@ Dividir el poligono en base a su diagonal, donde para n%2 = 0 la diagonal del mi
      - la diagonal (de n valores) se puede dividira  la mitad ( n / 2) que, siguiendo la distribucion triangular
      no existe ningun valor (conteo) de n/2 de rojos o azules. (ya que podemos decir que para resolver el problema, mas que contar disidencias en filas y columnas podemos contar disidencias en cantidades de diagonales, que es algo que me di cuenta mientras escribia el razonamiento.
 =end
-
-# Nota, el codigo puede ser brutalmente optimizado hasta la muerte pero encontre la propuesta de casualidad y me puse 30 mins para hacerlo. Igual tarde 40ish.
-
 ```
 
 el archivo .rb (raw, SIC) contiene el mismo comentario + el codigo escrito para probarlo.
